@@ -19,9 +19,9 @@ The Consumer and Community Banking segment serves consumers and businesses throu
 
 >Their motto is to help their customers make the most of their money so they can make the most of their life. They focus on their customers ‘success. 
 
-### Area of Technology:  Remote Check Deposit
+## Area of Technology:  Remote Check Deposit
 
-#### Background
+### Background
 
 The events of September 11, 2001 revealed how much the check processing system relied on air travel.  Each original paper check had to be processed by the Fed and returned to the account holder’s bank but 9/11 temporarily grounded airplanes, creating a national backlog and emergency. 
 
@@ -30,7 +30,7 @@ To prevent future disruptions The Check Clearing for the 21st Century Act (Chec
 Around 2009-10, many banks and other RDC providers began experimenting with lower-cost and pay-as-you go remote deposit services, and began supporting off-the-shelf equipment such as flatbed scanners and all-in-one printers. This brought remote deposit within reach of ever-smaller businesses and some individuals. In 2010 RDC mobile apps have begun using smartphone cameras to capture check images, bypassing PCs and scanners entirely. These apps are generally free or charge a low per-item fee, and therefore appeal to individual customers. However, the manual process and stricter limits on deposits can make them unwieldy for business use.
 
 
-#### Chase Mobile Deposit and Quick Deposit Scanner
+### Chase Mobile Deposit and Quick Deposit Scanner
 
 Remote deposit capture lets banking customers use their computers, tablets or smartphones to conveniently deposit checks. The process eliminates trips to the bank, and checks can be deposited 24/7, not just during regular banking hours. Individuals customers might use remote deposit capture for their paychecks, gift checks, refund checks and any other checks they receive. Businesses might use the technology to deposit checks they receive from their customers. Chase uses Mitek Systems the leader in mobile-imaging applications using smart phone cameras for check deposits and bill payments. They use specialized OCR sofware for highly accurate MICR validation and API for easy integration into mobile banking apps as well as core systems. Mitek Systems technology utilizes patented algorithms that analyze images of identity documents in many ways. These include image quality analysis, image repair and optimization, document identification and classification, data extraction, and authenticators.
 
